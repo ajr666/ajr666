@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jingrui An, a ECE graduate student in University of Washington. My favourite language is c plus plus, and my favourite sport is bascketball.
-- 👀 I’m interested in backend develpment. During my senior and last year of bechalor, I have 9 months' software internship experience in different areas, including autonomous driving, office software, and cyber security. I also put some of my favourite projects on github, including a AI game platform and a pascal complier. Now I am learning LLM, and I am pretty intereted about it!
+- 👋 👋 Hi, I'm Jingrui An, a graduate student in Electrical and Computer Engineering (ECE) at the University of Washington. My favorite programming language is C++, and the topic I will definately join to discuss is -- playing bascketball!
+- 👀 I'm particularly interested in backend development. During my senior year of undergraduate studies, I gained 9 months of software internship experience across various fields, including autonomous driving, office software, and cybersecurity. Also, on my GitHub, you'll find some of my favorite projects, such as an AI game platform and a Pascal compiler! Currently, I'm exploring LLMs and am excited about the possibilities they offer!
 - 📫 My email is ajrhandome@gmail.com, jingruian2049@163.com, and my linked-in is https://www.linkedin.com/in/jingruian/. Feel free to contact me :) 
 
 <!---
